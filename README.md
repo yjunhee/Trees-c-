@@ -1,4 +1,4 @@
-# Trees- c++ -
+# Trees  C++
 # BinarySearchTree
 # AVL Tree
 # B-Tree
