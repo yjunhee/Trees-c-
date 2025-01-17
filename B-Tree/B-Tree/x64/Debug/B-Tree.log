@@ -1,0 +1,4 @@
+﻿  B-Tree.cpp
+C:\C,C++\B-Tree\B-Tree.cpp(64,15): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\C,C++\B-Tree\B-Tree.cpp(81,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  B-Tree.vcxproj -> C:\C,C++\B-Tree\x64\Debug\B-Tree.exe
